@@ -1,5 +1,5 @@
 <template>
-  <UKbd class="font-bold rounded-full" variant="subtle">K</UKbd>
+  <UKbd class="font-bold rounded-full" variant="subtle">k</UKbd>
 </template>
 
 
