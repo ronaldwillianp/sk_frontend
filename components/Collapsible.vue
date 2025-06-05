@@ -5,9 +5,8 @@
     }" block />
 
     <template #content>
-      <Placeholder class="h-48" />
-      Hello World!
-      This is a Collapsible container.
+      <!-- <Placeholder class="h-48" /> -->
+      Hola Roandlo
     </template>
   </UCollapsible>
 </template>
@@ -17,6 +16,4 @@
 
 </script>
 
-<style>
-
-</style>
+<style></style>
